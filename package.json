@@ -21,7 +21,7 @@
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#01111f",
-    "theme": "light"
+    "theme": "dark"
   },
   "contributes": {
     "themes": [
