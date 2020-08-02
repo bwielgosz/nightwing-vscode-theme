@@ -2,7 +2,7 @@
   "name": "nightwing",
   "displayName": "Nightwing",
   "description": "Dark VS Code color theme for night coders.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "bwielgosz",
   "engines": {
     "vscode": "^1.47.0"
