@@ -1,0 +1,34 @@
+{
+  "name": "nightwing",
+  "displayName": "Nightwing",
+  "description": "Dark VS Code color theme for night coders.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "homepage": "https://github.com/microsoft/nightwing-vscode-theme/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/bwielgosz/nightwing-vscode-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bwielgosz/nightwing-vscode-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./icon.png",
+  "galleryBanner": {
+    "color": "#01111f",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nightwing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nightwing-color-theme.json"
+      }
+    ]
+  }
+}
